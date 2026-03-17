@@ -1,0 +1,56 @@
+{
+  "patients": [
+    {
+      "id": "mmurddntyckkjy2",
+      "name": "test",
+      "birthDate": "2026-03-04",
+      "gender": "male",
+      "measurements": [
+        {
+          "id": "mmuq89luvyuaagw",
+          "date": "2026-03-17",
+          "height": 12,
+          "weight": 11,
+          "headCircumference": 45
+        },
+        {
+          "id": "mmuq8l919fte9fm",
+          "date": "2026-04-29",
+          "height": 133,
+          "weight": 12,
+          "headCircumference": 55
+        },
+        {
+          "id": "mmuqcetuo3lgecc",
+          "date": "2026-07-16",
+          "height": 145,
+          "weight": 33,
+          "headCircumference": 67,
+          "notes": "test"
+        }
+      ]
+    },
+    {
+      "id": "mmurexkj4q1lvov",
+      "name": "test2",
+      "birthDate": "1222-01-01",
+      "gender": "female",
+      "measurements": [
+        {
+          "id": "mmurfrnubm2hewy",
+          "date": "2026-03-17",
+          "height": 123,
+          "weight": 122,
+          "headCircumference": 33
+        },
+        {
+          "id": "mmurg5ov0q8fu8k",
+          "date": "2026-04-18",
+          "height": 122,
+          "weight": 33,
+          "headCircumference": 22
+        }
+      ]
+    }
+  ]
+}
